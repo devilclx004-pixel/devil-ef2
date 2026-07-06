@@ -1,0 +1,48 @@
+### 1. Cấu trúc tổng quan & Thời gian
+Một bài thuyết trình tiêu chuẩn 6 phút cần tuân thủ cấu trúc 3 phần cứng:
+*   INTRO (~1 phút): Hook (Thu hút) + Topic (Chủ đề) + Roadmap (Lộ trình).
+*   BODY (~3.5 phút): 2-3 ý chính kèm theo dẫn chứng.
+*   CONCLUSION (~1 phút): Summary (Tóm tắt) + Call to action (Kêu gọi hành động) + Close (Kết thúc đáng nhớ).
+*   Q&A (~30 giây): Mời khán giả đặt câu hỏi và cảm ơn.
+
+### 2. Chi tiết công thức cho từng phần
+*   Phần Mở bài - Introduction: 
+    *   Hook: Gây chú ý ngay lập tức bằng câu hỏi, sự thật bất ngờ, hoặc một câu chuyện.
+    *   Topic: Nói rõ chủ đề bài thuyết trình trong 1 câu duy nhất.
+    *   Roadmap: Cho khán giả biết trước bạn sẽ đi qua những nội dung nào.
+*   Phần Thân bài - Body: Áp dụng công thức 3 bước cho mỗi đoạn:
+    *   Topic Sentence: Nêu ý chính của đoạn rõ ràng.
+    *   Details/Evidence: Bổ sung dữ liệu, ví dụ để hỗ trợ ý chính.
+    *   Mini-summary + Signpost: Tóm tắt ngắn gọn ý vừa nói và chuyển sang ý tiếp theo.
+*   Phần Kết bài - Conclusion:
+    *   Summary: Nhắc lại 3 ý chính (Tuyệt đối không thêm thông tin mới).
+    *   Call to Action: Nói cho khán giả biết họ cần làm gì, nghĩ gì cụ thể sau bài nói.
+    *   Memorable Close: Kết thúc bằng một câu trích dẫn hoặc thông điệp khiến họ phải suy nghĩ.
+
+### 3. Kỹ năng Ngôn ngữ (Language)
+*   Ngôn ngữ chỉ đường - Signposting: Sử dụng các cụm từ chuyển tiếp để khán giả không bị lạc (VD: To begin with... Moving on to... For example... To summarise...).
+*   Sự chuyên nghiệp - Register: Thuyết trình cần dùng từ ngữ trang trọng (Formal), tránh kiểu nói chuyện quá thông tục như giao tiếp hằng ngày.
+
+### 4. Kỹ thuật Giọng nói (Voice & Tone)
+*   Sức mạnh của khoảng lặng - Pausing: Dừng lại có chủ đích để nhấn mạnh một ý trọng tâm, tạo sự mong chờ, thể hiện phong thái tự tin và thay thế cho các từ ậm ờ (um, ah).
+*   Nhấn âm - Sentence Stress: Việc bạn chọn nhấn mạnh vào từ nào trong câu sẽ quyết định thông điệp mà khán giả nghe được.
+*   Tốc độ & Âm lượng - Projection & Pace: 
+    *   Volume: Nói đủ to để người ngồi cuối phòng cũng nghe rõ.
+    *   Pace: Nói chậm lại khoảng 20% so với bình thường (người hồi hộp thường nói rất nhanh).
+    *   Clarity: Mở rộng khẩu hình miệng, phát âm rõ các âm cuối.
+    *   Tone: Mỉm cười khi nói để tạo năng lượng và sự ấm áp.
+
+### 5. Ngôn ngữ cơ thể (Body Language)
+*   3 loại Cử chỉ - Gestures:
+    *   Illustrative: Diễn tả kích thước, không gian (VD: dang rộng tay = cơ hội lớn).
+    *   Emphatic: Nhấn mạnh những lúc quan trọng (VD: nắm tay, hướng lòng bàn tay mở).
+    *   Structural: Mô tả cấu trúc (VD: giơ ngón tay đếm 1, 2, 3).
+*   Yếu tố Văn hóa: Chú ý cử chỉ khi thuyết trình quốc tế. (VD: Sự tĩnh lặng ở châu Á thể hiện sự kiểm soát, nhưng ở phương Tây lại bị xem là thiếu năng lượng; Tránh dùng một ngón tay để chỉ trỏ ở Việt Nam).
+
+### 6. Barem chấm điểm cuối kỳ
+Giảng viên sẽ chấm điểm bài thực hành dựa trên 5 yếu tố cốt lõi:
+1.  Clarity / Coherence: Tính rõ ràng, mạch lạc, chuyển ý tốt.
+2.  Body Language: Cử chỉ tay có mục đích, giao tiếp bằng mắt (eye contact) tốt, di chuyển tự tin.
+3.  Voice & Tone: Nhấn nhá ý chính, ngắt nghỉ hiệu quả.
+4.  Preparation: Sự chuẩn bị kỹ lưỡng, nói không cần nhìn giấy tờ (notes), phát âm chuẩn.
+5.  Opening & Closing: Có hook mạnh, lộ trình rõ ràng, kết bài đáng nhớ và quản lý tốt phần Q&A.
